@@ -1,8 +1,8 @@
-# E3D - Backoffice
+# WHK PORTABLE
 
 ## Description
 
-Admin for manage ordering from e3d
+Admin for WHK
 
 ## Dependencies
 
