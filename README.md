@@ -33,6 +33,3 @@ $ npm run dev
 $ npm run build
 ```
 
-## Stay in touch
-
-- Author - [Andri Anto](https://github.com/andriykhc)
